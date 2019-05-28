@@ -1,18 +1,18 @@
 package main.java;
 
-public class Salmon {
+public class Opetators {
 	static int count;
 	int x = 2 * 5 + 3 * 4 - 8;
 	int y = 2 * ((5 + 3) * 4 - 8);
 
-	public Salmon() {
+	public Opetators() {
 		count = 4;
 	}
 
 	public static void main(String[] args) {
 		int test;
 		String hola;
-		Salmon s = new Salmon();
+		Opetators s = new Opetators();
 		System.out.println(s.count); // Outputs 4
 		System.out.println(s.x); // Outputs 14
 		System.out.println(s.y); // Outputs 48
