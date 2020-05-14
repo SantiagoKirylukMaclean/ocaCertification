@@ -1,0 +1,3002 @@
+[
+   {
+      "Comprobante":"RECI-X-0911-01085984",
+      "Fecha Emisión":"2019-12-06",
+      "Debe":"0",
+      "Pago":"25641.95",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"RECE-X-0913-00492975",
+      "Fecha Emisión":"2019-10-01",
+      "Debe":"0",
+      "Pago":"7739.16",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"RECE-X-0913-00489036",
+      "Fecha Emisión":"2019-08-12",
+      "Debe":"0",
+      "Pago":"7441.5",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"RECI-X-0911-01069715",
+      "Fecha Emisión":"2019-07-04",
+      "Debe":"0",
+      "Pago":"11037.05",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"RECI-X-0911-01064833",
+      "Fecha Emisión":"2019-05-15",
+      "Debe":"0",
+      "Pago":"7000",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0112-00035149",
+      "Fecha Emisión":"2019-04-27",
+      "Debe":"2291.94",
+      "Pago":"0",
+      "Número Cuota":"3",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-01061158",
+      "Fecha Emisión":"2019-04-11",
+      "Debe":"0",
+      "Pago":"3242",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"RECI-X-0911-01059794",
+      "Fecha Emisión":"2019-04-04",
+      "Debe":"0",
+      "Pago":"6288",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0112-00026258",
+      "Fecha Emisión":"2019-03-28",
+      "Debe":"10095.91",
+      "Pago":"0",
+      "Número Cuota":"2",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0112-00022362",
+      "Fecha Emisión":"2019-03-20",
+      "Debe":"9583.68",
+      "Pago":"0",
+      "Número Cuota":"1",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"NCRE-C-0056-00040455",
+      "Fecha Emisión":"2018-08-01",
+      "Debe":"0",
+      "Pago":"35384.57",
+      "Número Cuota":"1",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0052-00332579",
+      "Fecha Emisión":"2018-05-23",
+      "Debe":"7604.26",
+      "Pago":"0",
+      "Número Cuota":"4",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0052-00324500",
+      "Fecha Emisión":"2018-04-25",
+      "Debe":"11251.92",
+      "Pago":"0",
+      "Número Cuota":"3",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0052-00314329",
+      "Fecha Emisión":"2018-03-23",
+      "Debe":"3926.38",
+      "Pago":"0",
+      "Número Cuota":"2",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0052-00306007",
+      "Fecha Emisión":"2018-02-22",
+      "Debe":"4063.53",
+      "Pago":"0",
+      "Número Cuota":"1",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0052-00298539",
+      "Fecha Emisión":"2018-01-24",
+      "Debe":"4205.24",
+      "Pago":"0",
+      "Número Cuota":"12",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0052-00290054",
+      "Fecha Emisión":"2017-12-22",
+      "Debe":"4333.24",
+      "Pago":"0",
+      "Número Cuota":"11",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-01009161",
+      "Fecha Emisión":"2017-12-15",
+      "Debe":"0",
+      "Pago":"2590.29",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0052-00282128",
+      "Fecha Emisión":"2017-11-22",
+      "Debe":"2590.29",
+      "Pago":"0",
+      "Número Cuota":"10",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00422359",
+      "Fecha Emisión":"2017-11-03",
+      "Debe":"0",
+      "Pago":"2414.5",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0052-00274275",
+      "Fecha Emisión":"2017-10-23",
+      "Debe":"2414.5",
+      "Pago":"0",
+      "Número Cuota":"9",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00421807",
+      "Fecha Emisión":"2017-10-18",
+      "Debe":"0",
+      "Pago":"2460.29",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0052-00266686",
+      "Fecha Emisión":"2017-09-22",
+      "Debe":"2590.29",
+      "Pago":"0",
+      "Número Cuota":"8",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00996174",
+      "Fecha Emisión":"2017-09-04",
+      "Debe":"0",
+      "Pago":"4969.28",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0052-00254557",
+      "Fecha Emisión":"2017-08-22",
+      "Debe":"50",
+      "Pago":"0",
+      "Número Cuota":"7",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0052-00254921",
+      "Fecha Emisión":"2017-08-23",
+      "Debe":"4789.28",
+      "Pago":"0",
+      "Número Cuota":"6",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"NCRE-C-0056-00028078",
+      "Fecha Emisión":"2017-04-25",
+      "Debe":"0",
+      "Pago":"22545.45",
+      "Número Cuota":"11",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0052-00213575",
+      "Fecha Emisión":"2017-03-23",
+      "Debe":"5280.08",
+      "Pago":"0",
+      "Número Cuota":"2",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0052-00203860",
+      "Fecha Emisión":"2017-02-22",
+      "Debe":"5541.28",
+      "Pago":"0",
+      "Número Cuota":"1",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0052-00196144",
+      "Fecha Emisión":"2017-01-24",
+      "Debe":"5762.25",
+      "Pago":"0",
+      "Número Cuota":"12",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0052-00187423",
+      "Fecha Emisión":"2016-12-26",
+      "Debe":"5961.84",
+      "Pago":"0",
+      "Número Cuota":"11",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00388002",
+      "Fecha Emisión":"2016-12-05",
+      "Debe":"0",
+      "Pago":"2190.5",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0052-00179232",
+      "Fecha Emisión":"2016-11-22",
+      "Debe":"2190.5",
+      "Pago":"0",
+      "Número Cuota":"10",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00386361",
+      "Fecha Emisión":"2016-11-08",
+      "Debe":"0",
+      "Pago":"2295.5",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0052-00172802",
+      "Fecha Emisión":"2016-10-24",
+      "Debe":"2295.5",
+      "Pago":"0",
+      "Número Cuota":"9",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00381976",
+      "Fecha Emisión":"2016-10-04",
+      "Debe":"0",
+      "Pago":"1875.5",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0052-00164610",
+      "Fecha Emisión":"2016-09-22",
+      "Debe":"1875.5",
+      "Pago":"0",
+      "Número Cuota":"8",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00379082",
+      "Fecha Emisión":"2016-09-05",
+      "Debe":"0",
+      "Pago":"38",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0052-00149784",
+      "Fecha Emisión":"2016-08-25",
+      "Debe":"38",
+      "Pago":"0",
+      "Número Cuota":"7",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00950407",
+      "Fecha Emisión":"2016-08-12",
+      "Debe":"0",
+      "Pago":"7623.25",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0052-00140990",
+      "Fecha Emisión":"2016-07-25",
+      "Debe":"3623.04",
+      "Pago":"0",
+      "Número Cuota":"6",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0052-00132824",
+      "Fecha Emisión":"2016-06-23",
+      "Debe":"1961.04",
+      "Pago":"0",
+      "Número Cuota":"5",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0052-00123545",
+      "Fecha Emisión":"2016-05-26",
+      "Debe":"2039.17",
+      "Pago":"0",
+      "Número Cuota":"4",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00368781",
+      "Fecha Emisión":"2016-05-05",
+      "Debe":"0",
+      "Pago":"76",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0052-00113750",
+      "Fecha Emisión":"2016-04-27",
+      "Debe":"76",
+      "Pago":"0",
+      "Número Cuota":"3",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00365994",
+      "Fecha Emisión":"2016-04-07",
+      "Debe":"0",
+      "Pago":"2819.5",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0052-00087040",
+      "Fecha Emisión":"2016-03-28",
+      "Debe":"2819.5",
+      "Pago":"0",
+      "Número Cuota":"2",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00927333",
+      "Fecha Emisión":"2016-03-18",
+      "Debe":"0",
+      "Pago":"9578.6",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0052-00079675",
+      "Fecha Emisión":"2016-02-22",
+      "Debe":"3025.32",
+      "Pago":"0",
+      "Número Cuota":"1",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0052-00071623",
+      "Fecha Emisión":"2016-01-21",
+      "Debe":"3216.34",
+      "Pago":"0",
+      "Número Cuota":"12",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0052-00063191",
+      "Fecha Emisión":"2015-12-22",
+      "Debe":"3336.94",
+      "Pago":"0",
+      "Número Cuota":"11",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00354228",
+      "Fecha Emisión":"2015-12-03",
+      "Debe":"0",
+      "Pago":"1418.75",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0052-00056114",
+      "Fecha Emisión":"2015-11-20",
+      "Debe":"1418.75",
+      "Pago":"0",
+      "Número Cuota":"10",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00352030",
+      "Fecha Emisión":"2015-11-06",
+      "Debe":"0",
+      "Pago":"1418.75",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0052-00047599",
+      "Fecha Emisión":"2015-10-21",
+      "Debe":"1418.75",
+      "Pago":"0",
+      "Número Cuota":"9",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00350836",
+      "Fecha Emisión":"2015-10-19",
+      "Debe":"0",
+      "Pago":"1491.71",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0052-00040258",
+      "Fecha Emisión":"2015-09-22",
+      "Debe":"1492",
+      "Pago":"0",
+      "Número Cuota":"8",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00348139",
+      "Fecha Emisión":"2015-09-23",
+      "Debe":"0",
+      "Pago":"27.73",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"NDEB-C-0052-00001105",
+      "Fecha Emisión":"2015-09-08",
+      "Debe":"368.26",
+      "Pago":"0",
+      "Número Cuota":"7",
+      "Acción":""
+   },
+   {
+      "Comprobante":"NDEB-C-0052-00001106",
+      "Fecha Emisión":"2015-09-08",
+      "Debe":"27.44",
+      "Pago":"0",
+      "Número Cuota":"7",
+      "Acción":""
+   },
+   {
+      "Comprobante":"NCI-X-0052-00044340",
+      "Fecha Emisión":"2015-08-24",
+      "Debe":"0",
+      "Pago":"368.26",
+      "Número Cuota":"7",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0052-00032203",
+      "Fecha Emisión":"2015-08-24",
+      "Debe":"0",
+      "Pago":"0",
+      "Número Cuota":"7",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00344664",
+      "Fecha Emisión":"2015-08-11",
+      "Debe":"0",
+      "Pago":"2592",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0052-00021879",
+      "Fecha Emisión":"2015-07-21",
+      "Debe":"2592",
+      "Pago":"0",
+      "Número Cuota":"6",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"NCRE-C-0052-00001936",
+      "Fecha Emisión":"2015-05-20",
+      "Debe":"0",
+      "Pago":"2931.19",
+      "Número Cuota":"1",
+      "Acción":""
+   },
+   {
+      "Comprobante":"NCRE-C-0052-00001937",
+      "Fecha Emisión":"2015-05-20",
+      "Debe":"0",
+      "Pago":"2714.74",
+      "Número Cuota":"2",
+      "Acción":""
+   },
+   {
+      "Comprobante":"RECI-X-0911-00879751",
+      "Fecha Emisión":"2015-04-06",
+      "Debe":"0",
+      "Pago":"2343",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01443346",
+      "Fecha Emisión":"2015-04-17",
+      "Debe":"2714.74",
+      "Pago":"0",
+      "Número Cuota":"2",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0002-01428281",
+      "Fecha Emisión":"2015-02-23",
+      "Debe":"2931.19",
+      "Pago":"0",
+      "Número Cuota":"1",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0019-00038037",
+      "Fecha Emisión":"2015-01-28",
+      "Debe":"2343",
+      "Pago":"0",
+      "Número Cuota":"13",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00326008",
+      "Fecha Emisión":"2015-01-23",
+      "Debe":"0",
+      "Pago":"2436.72",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01410293",
+      "Fecha Emisión":"2014-12-22",
+      "Debe":"2436.72",
+      "Pago":"0",
+      "Número Cuota":"11",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00323338",
+      "Fecha Emisión":"2014-12-19",
+      "Debe":"0",
+      "Pago":"1050.09",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01402546",
+      "Fecha Emisión":"2014-11-21",
+      "Debe":"1050.09",
+      "Pago":"0",
+      "Número Cuota":"10",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00320894",
+      "Fecha Emisión":"2014-11-18",
+      "Debe":"0",
+      "Pago":"811.07",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01395366",
+      "Fecha Emisión":"2014-10-21",
+      "Debe":"1004.7",
+      "Pago":"0",
+      "Número Cuota":"9",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0002-01387012",
+      "Fecha Emisión":"2014-09-22",
+      "Debe":"937.85",
+      "Pago":"0",
+      "Número Cuota":"8",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0002-01378347",
+      "Fecha Emisión":"2014-08-25",
+      "Debe":"17.5",
+      "Pago":"0",
+      "Número Cuota":"7",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"NCRE-C-0002-00126943",
+      "Fecha Emisión":"2014-08-06",
+      "Debe":"0",
+      "Pago":"10679.32",
+      "Número Cuota":"0",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01369129",
+      "Fecha Emisión":"2014-07-22",
+      "Debe":"1858.2",
+      "Pago":"0",
+      "Número Cuota":"6",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0002-01360769",
+      "Fecha Emisión":"2014-06-23",
+      "Debe":"2073.78",
+      "Pago":"0",
+      "Número Cuota":"5",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0002-01351897",
+      "Fecha Emisión":"2014-05-21",
+      "Debe":"5162.46",
+      "Pago":"0",
+      "Número Cuota":"4",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00305167",
+      "Fecha Emisión":"2014-05-15",
+      "Debe":"0",
+      "Pago":"1070.68",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01342338",
+      "Fecha Emisión":"2014-04-22",
+      "Debe":"1173.42",
+      "Pago":"0",
+      "Número Cuota":"3",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00301386",
+      "Fecha Emisión":"2014-04-09",
+      "Debe":"0",
+      "Pago":"956.5",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01331789",
+      "Fecha Emisión":"2014-03-22",
+      "Debe":"1123.25",
+      "Pago":"0",
+      "Número Cuota":"2",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"NCRE-C-0002-00123407",
+      "Fecha Emisión":"2014-03-18",
+      "Debe":"0",
+      "Pago":"872.32",
+      "Número Cuota":"0",
+      "Acción":""
+   },
+   {
+      "Comprobante":"RECI-X-0911-00826433",
+      "Fecha Emisión":"2014-03-17",
+      "Debe":"0",
+      "Pago":"2747.5",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01322985",
+      "Fecha Emisión":"2014-02-24",
+      "Debe":"2018.73",
+      "Pago":"0",
+      "Número Cuota":"1",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0019-00037656",
+      "Fecha Emisión":"2014-02-04",
+      "Debe":"1767.5",
+      "Pago":"0",
+      "Número Cuota":"13",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00293735",
+      "Fecha Emisión":"2014-01-13",
+      "Debe":"0",
+      "Pago":"838.61",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01304792",
+      "Fecha Emisión":"2013-12-23",
+      "Debe":"910.5",
+      "Pago":"0",
+      "Número Cuota":"11",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00289967",
+      "Fecha Emisión":"2013-12-03",
+      "Debe":"0",
+      "Pago":"822.64",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01297299",
+      "Fecha Emisión":"2013-11-22",
+      "Debe":"750.75",
+      "Pago":"0",
+      "Número Cuota":"10",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00812354",
+      "Fecha Emisión":"2013-11-21",
+      "Debe":"0",
+      "Pago":"822.64",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01289472",
+      "Fecha Emisión":"2013-10-22",
+      "Debe":"822.64",
+      "Pago":"0",
+      "Número Cuota":"9",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00286199",
+      "Fecha Emisión":"2013-10-09",
+      "Debe":"0",
+      "Pago":"784.27",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01281086",
+      "Fecha Emisión":"2013-09-20",
+      "Debe":"791",
+      "Pago":"0",
+      "Número Cuota":"8",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00284016",
+      "Fecha Emisión":"2013-09-10",
+      "Debe":"0",
+      "Pago":"1774.5",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01272481",
+      "Fecha Emisión":"2013-08-22",
+      "Debe":"54.75",
+      "Pago":"0",
+      "Número Cuota":"7",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0002-01263533",
+      "Fecha Emisión":"2013-07-22",
+      "Debe":"1713.02",
+      "Pago":"0",
+      "Número Cuota":"6",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00790740",
+      "Fecha Emisión":"2013-07-03",
+      "Debe":"0",
+      "Pago":"749.25",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01255028",
+      "Fecha Emisión":"2013-06-24",
+      "Debe":"749.25",
+      "Pago":"0",
+      "Número Cuota":"5",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00277273",
+      "Fecha Emisión":"2013-06-17",
+      "Debe":"0",
+      "Pago":"808.35",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01246563",
+      "Fecha Emisión":"2013-05-21",
+      "Debe":"808.35",
+      "Pago":"0",
+      "Número Cuota":"4",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00274739",
+      "Fecha Emisión":"2013-05-13",
+      "Debe":"0",
+      "Pago":"791",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01234470",
+      "Fecha Emisión":"2013-04-19",
+      "Debe":"791",
+      "Pago":"0",
+      "Número Cuota":"3",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00778866",
+      "Fecha Emisión":"2013-04-12",
+      "Debe":"0",
+      "Pago":"1505.78",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01225406",
+      "Fecha Emisión":"2013-03-20",
+      "Debe":"777.14",
+      "Pago":"0",
+      "Número Cuota":"2",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"NCRE-C-0002-00114205",
+      "Fecha Emisión":"2013-03-18",
+      "Debe":"0",
+      "Pago":"654.95",
+      "Número Cuota":"0",
+      "Acción":""
+   },
+   {
+      "Comprobante":"NCRE-C-0002-00114206",
+      "Fecha Emisión":"2013-03-18",
+      "Debe":"0",
+      "Pago":"590.47",
+      "Número Cuota":"0",
+      "Acción":""
+   },
+   {
+      "Comprobante":"NCRE-C-0002-00114207",
+      "Fecha Emisión":"2013-03-18",
+      "Debe":"0",
+      "Pago":"728.69",
+      "Número Cuota":"0",
+      "Acción":""
+   },
+   {
+      "Comprobante":"RECI-X-0911-00773662",
+      "Fecha Emisión":"2013-03-12",
+      "Debe":"0",
+      "Pago":"2610",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01215289",
+      "Fecha Emisión":"2013-02-26",
+      "Debe":"1505.97",
+      "Pago":"0",
+      "Número Cuota":"1",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0019-00037033",
+      "Fecha Emisión":"2013-02-05",
+      "Debe":"1202.3",
+      "Pago":"0",
+      "Número Cuota":"13",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0002-01211841",
+      "Fecha Emisión":"2013-02-09",
+      "Debe":"1245.94",
+      "Pago":"0",
+      "Número Cuota":"12",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0002-01199375",
+      "Fecha Emisión":"2012-12-21",
+      "Debe":"1358.54",
+      "Pago":"0",
+      "Número Cuota":"11",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00261582",
+      "Fecha Emisión":"2012-12-10",
+      "Debe":"0",
+      "Pago":"606.3",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01192260",
+      "Fecha Emisión":"2012-11-21",
+      "Debe":"606.3",
+      "Pago":"0",
+      "Número Cuota":"10",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00760388",
+      "Fecha Emisión":"2012-11-21",
+      "Debe":"0",
+      "Pago":"657.59",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01184631",
+      "Fecha Emisión":"2012-10-23",
+      "Debe":"657.59",
+      "Pago":"0",
+      "Número Cuota":"9",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00258349",
+      "Fecha Emisión":"2012-10-16",
+      "Debe":"0",
+      "Pago":"639.79",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01176537",
+      "Fecha Emisión":"2012-09-21",
+      "Debe":"644.95",
+      "Pago":"0",
+      "Número Cuota":"8",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00256042",
+      "Fecha Emisión":"2012-09-14",
+      "Debe":"0",
+      "Pago":"745.97",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01167763",
+      "Fecha Emisión":"2012-08-23",
+      "Debe":"71.04",
+      "Pago":"0",
+      "Número Cuota":"7",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00745736",
+      "Fecha Emisión":"2012-08-08",
+      "Debe":"0",
+      "Pago":"632.3",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01158850",
+      "Fecha Emisión":"2012-07-24",
+      "Debe":"1302.07",
+      "Pago":"0",
+      "Número Cuota":"6",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00742196",
+      "Fecha Emisión":"2012-07-23",
+      "Debe":"0",
+      "Pago":"1242.84",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01149447",
+      "Fecha Emisión":"2012-06-25",
+      "Debe":"657.59",
+      "Pago":"0",
+      "Número Cuota":"5",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00736868",
+      "Fecha Emisión":"2012-06-15",
+      "Debe":"0",
+      "Pago":"622.21",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01142646",
+      "Fecha Emisión":"2012-05-22",
+      "Debe":"663.41",
+      "Pago":"0",
+      "Número Cuota":"4",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00732583",
+      "Fecha Emisión":"2012-05-18",
+      "Debe":"0",
+      "Pago":"630",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01132315",
+      "Fecha Emisión":"2012-04-23",
+      "Debe":"0",
+      "Pago":"0",
+      "Número Cuota":"3",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"NCI-X-0002-00034915",
+      "Fecha Emisión":"2012-04-23",
+      "Debe":"0",
+      "Pago":"508.4",
+      "Número Cuota":"3",
+      "Acción":""
+   },
+   {
+      "Comprobante":"RECI-X-0911-00726929",
+      "Fecha Emisión":"2012-04-13",
+      "Debe":"0",
+      "Pago":"660",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01123159",
+      "Fecha Emisión":"2012-03-22",
+      "Debe":"1256.46",
+      "Pago":"0",
+      "Número Cuota":"2",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00723162",
+      "Fecha Emisión":"2012-03-26",
+      "Debe":"0",
+      "Pago":"1141",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01114372",
+      "Fecha Emisión":"2012-02-17",
+      "Debe":"1267.69",
+      "Pago":"0",
+      "Número Cuota":"1",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0019-00036811",
+      "Fecha Emisión":"2012-02-02",
+      "Debe":"959.3",
+      "Pago":"0",
+      "Número Cuota":"13",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00237716",
+      "Fecha Emisión":"2012-01-30",
+      "Debe":"0",
+      "Pago":"504.2",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01098127",
+      "Fecha Emisión":"2011-12-23",
+      "Debe":"504.2",
+      "Pago":"0",
+      "Número Cuota":"11",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00234986",
+      "Fecha Emisión":"2011-12-14",
+      "Debe":"0",
+      "Pago":"504.2",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01091007",
+      "Fecha Emisión":"2011-11-22",
+      "Debe":"504.2",
+      "Pago":"0",
+      "Número Cuota":"10",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00233395",
+      "Fecha Emisión":"2011-11-17",
+      "Debe":"0",
+      "Pago":"514.28",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01083440",
+      "Fecha Emisión":"2011-10-21",
+      "Debe":"514.28",
+      "Pago":"0",
+      "Número Cuota":"9",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00230558",
+      "Fecha Emisión":"2011-10-13",
+      "Debe":"0",
+      "Pago":"504.2",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01075433",
+      "Fecha Emisión":"2011-09-22",
+      "Debe":"504.2",
+      "Pago":"0",
+      "Número Cuota":"8",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00228285",
+      "Fecha Emisión":"2011-09-14",
+      "Debe":"0",
+      "Pago":"588.05",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01065542",
+      "Fecha Emisión":"2011-08-24",
+      "Debe":"55.3",
+      "Pago":"0",
+      "Número Cuota":"7",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00691468",
+      "Fecha Emisión":"2011-08-04",
+      "Debe":"0",
+      "Pago":"479.1",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01055288",
+      "Fecha Emisión":"2011-07-21",
+      "Debe":"1038.45",
+      "Pago":"0",
+      "Número Cuota":"6",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00222758",
+      "Fecha Emisión":"2011-07-11",
+      "Debe":"0",
+      "Pago":"504.2",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01048568",
+      "Fecha Emisión":"2011-06-22",
+      "Debe":"477.6",
+      "Pago":"0",
+      "Número Cuota":"5",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00219926",
+      "Fecha Emisión":"2011-06-10",
+      "Debe":"0",
+      "Pago":"445.24",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01041417",
+      "Fecha Emisión":"2011-05-23",
+      "Debe":"449.9",
+      "Pago":"0",
+      "Número Cuota":"4",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00217092",
+      "Fecha Emisión":"2011-05-10",
+      "Debe":"0",
+      "Pago":"490.27",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"NCRE-C-0002-00097683",
+      "Fecha Emisión":"2011-05-03",
+      "Debe":"0",
+      "Pago":"456",
+      "Número Cuota":"0",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01030213",
+      "Fecha Emisión":"2011-04-19",
+      "Debe":"445.4",
+      "Pago":"0",
+      "Número Cuota":"3",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00674337",
+      "Fecha Emisión":"2011-04-15",
+      "Debe":"0",
+      "Pago":"458.9",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01021198",
+      "Fecha Emisión":"2011-03-22",
+      "Debe":"468.06",
+      "Pago":"0",
+      "Número Cuota":"2",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00669169",
+      "Fecha Emisión":"2011-03-16",
+      "Debe":"0",
+      "Pago":"1152",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-01011193",
+      "Fecha Emisión":"2011-02-23",
+      "Debe":"931.95",
+      "Pago":"0",
+      "Número Cuota":"1",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0019-00036117",
+      "Fecha Emisión":"2011-02-01",
+      "Debe":"707.1",
+      "Pago":"0",
+      "Número Cuota":"13",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"NCRE-C-0002-00095035",
+      "Fecha Emisión":"2011-01-13",
+      "Debe":"0",
+      "Pago":"364.94",
+      "Número Cuota":"0",
+      "Acción":""
+   },
+   {
+      "Comprobante":"RECI-X-0911-00661872",
+      "Fecha Emisión":"2011-01-10",
+      "Debe":"0",
+      "Pago":"371.6",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00996474",
+      "Fecha Emisión":"2010-12-27",
+      "Debe":"736.54",
+      "Pago":"0",
+      "Número Cuota":"11",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00203916",
+      "Fecha Emisión":"2010-12-13",
+      "Debe":"0",
+      "Pago":"371.6",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00989195",
+      "Fecha Emisión":"2010-11-24",
+      "Debe":"371.6",
+      "Pago":"0",
+      "Número Cuota":"10",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00200981",
+      "Fecha Emisión":"2010-11-10",
+      "Debe":"0",
+      "Pago":"367.1",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00981401",
+      "Fecha Emisión":"2010-10-22",
+      "Debe":"367.1",
+      "Pago":"0",
+      "Número Cuota":"9",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00198741",
+      "Fecha Emisión":"2010-10-13",
+      "Debe":"0",
+      "Pago":"367.1",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00972764",
+      "Fecha Emisión":"2010-09-23",
+      "Debe":"371.6",
+      "Pago":"0",
+      "Número Cuota":"8",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00195613",
+      "Fecha Emisión":"2010-09-09",
+      "Debe":"0",
+      "Pago":"16.6",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00964234",
+      "Fecha Emisión":"2010-08-25",
+      "Debe":"21.1",
+      "Pago":"0",
+      "Número Cuota":"7",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00193292",
+      "Fecha Emisión":"2010-08-11",
+      "Debe":"0",
+      "Pago":"713.1",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00955266",
+      "Fecha Emisión":"2010-07-23",
+      "Debe":"713.1",
+      "Pago":"0",
+      "Número Cuota":"6",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00190375",
+      "Fecha Emisión":"2010-07-12",
+      "Debe":"0",
+      "Pago":"722.1",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00947121",
+      "Fecha Emisión":"2010-06-28",
+      "Debe":"713.1",
+      "Pago":"0",
+      "Número Cuota":"5",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00628250",
+      "Fecha Emisión":"2010-06-03",
+      "Debe":"0",
+      "Pago":"638",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00937441",
+      "Fecha Emisión":"2010-05-19",
+      "Debe":"647",
+      "Pago":"0",
+      "Número Cuota":"4",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00184859",
+      "Fecha Emisión":"2010-05-10",
+      "Debe":"0",
+      "Pago":"656",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00929806",
+      "Fecha Emisión":"2010-04-26",
+      "Debe":"647",
+      "Pago":"0",
+      "Número Cuota":"3",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00182424",
+      "Fecha Emisión":"2010-04-12",
+      "Debe":"0",
+      "Pago":"683.45",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00918038",
+      "Fecha Emisión":"2010-03-23",
+      "Debe":"683.45",
+      "Pago":"0",
+      "Número Cuota":"2",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00613930",
+      "Fecha Emisión":"2010-03-05",
+      "Debe":"0",
+      "Pago":"606.1",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00908055",
+      "Fecha Emisión":"2010-02-24",
+      "Debe":"606.1",
+      "Pago":"0",
+      "Número Cuota":"1",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00610754",
+      "Fecha Emisión":"2010-02-05",
+      "Debe":"0",
+      "Pago":"553.5",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0019-00035417",
+      "Fecha Emisión":"2010-02-01",
+      "Debe":"553.5",
+      "Pago":"0",
+      "Número Cuota":"13",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00608287",
+      "Fecha Emisión":"2010-01-07",
+      "Debe":"0",
+      "Pago":"555",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00897324",
+      "Fecha Emisión":"2009-12-29",
+      "Debe":"555",
+      "Pago":"0",
+      "Número Cuota":"11",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00604691",
+      "Fecha Emisión":"2009-12-04",
+      "Debe":"0",
+      "Pago":"555",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00886900",
+      "Fecha Emisión":"2009-11-20",
+      "Debe":"555",
+      "Pago":"0",
+      "Número Cuota":"10",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00600055",
+      "Fecha Emisión":"2009-11-06",
+      "Debe":"0",
+      "Pago":"555",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00879401",
+      "Fecha Emisión":"2009-10-23",
+      "Debe":"555",
+      "Pago":"0",
+      "Número Cuota":"9",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00165982",
+      "Fecha Emisión":"2009-10-13",
+      "Debe":"0",
+      "Pago":"564",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00869174",
+      "Fecha Emisión":"2009-09-23",
+      "Debe":"564",
+      "Pago":"0",
+      "Número Cuota":"8",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00590443",
+      "Fecha Emisión":"2009-09-03",
+      "Debe":"0",
+      "Pago":"555",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00861470",
+      "Fecha Emisión":"2009-08-24",
+      "Debe":"555",
+      "Pago":"0",
+      "Número Cuota":"7",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00586654",
+      "Fecha Emisión":"2009-08-05",
+      "Debe":"0",
+      "Pago":"554.8",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00852857",
+      "Fecha Emisión":"2009-07-22",
+      "Debe":"555",
+      "Pago":"0",
+      "Número Cuota":"6",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00584804",
+      "Fecha Emisión":"2009-07-29",
+      "Debe":"0",
+      "Pago":"0.2",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"RECE-X-0913-00158644",
+      "Fecha Emisión":"2009-07-15",
+      "Debe":"0",
+      "Pago":"564",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00844630",
+      "Fecha Emisión":"2009-06-22",
+      "Debe":"564",
+      "Pago":"0",
+      "Número Cuota":"5",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00576255",
+      "Fecha Emisión":"2009-06-05",
+      "Debe":"0",
+      "Pago":"555",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00836126",
+      "Fecha Emisión":"2009-05-22",
+      "Debe":"555",
+      "Pago":"0",
+      "Número Cuota":"4",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00570962",
+      "Fecha Emisión":"2009-05-05",
+      "Debe":"0",
+      "Pago":"555",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00826456",
+      "Fecha Emisión":"2009-04-27",
+      "Debe":"555",
+      "Pago":"0",
+      "Número Cuota":"3",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00569338",
+      "Fecha Emisión":"2009-04-20",
+      "Debe":"0",
+      "Pago":"576.71",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00816990",
+      "Fecha Emisión":"2009-03-26",
+      "Debe":"576.81",
+      "Pago":"0",
+      "Número Cuota":"2",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00563455",
+      "Fecha Emisión":"2009-03-13",
+      "Debe":"0",
+      "Pago":"0.1",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"RECI-X-0911-00560438",
+      "Fecha Emisión":"2009-03-03",
+      "Debe":"0",
+      "Pago":"555",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00808478",
+      "Fecha Emisión":"2009-02-25",
+      "Debe":"555",
+      "Pago":"0",
+      "Número Cuota":"1",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00557548",
+      "Fecha Emisión":"2009-02-04",
+      "Debe":"0",
+      "Pago":"458.7",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0019-00034606",
+      "Fecha Emisión":"2009-01-30",
+      "Debe":"458.7",
+      "Pago":"0",
+      "Número Cuota":"13",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00555637",
+      "Fecha Emisión":"2009-01-08",
+      "Debe":"0",
+      "Pago":"470.7",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00792817",
+      "Fecha Emisión":"2008-12-22",
+      "Debe":"470.7",
+      "Pago":"0",
+      "Número Cuota":"11",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0002-00785464",
+      "Fecha Emisión":"2008-11-21",
+      "Debe":"460.2",
+      "Pago":"0",
+      "Número Cuota":"10",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00549783",
+      "Fecha Emisión":"2008-12-01",
+      "Debe":"0",
+      "Pago":"460.2",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"RECI-X-0911-00547600",
+      "Fecha Emisión":"2008-11-10",
+      "Debe":"0",
+      "Pago":"466.2",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00777715",
+      "Fecha Emisión":"2008-10-24",
+      "Debe":"466.2",
+      "Pago":"0",
+      "Número Cuota":"9",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00543025",
+      "Fecha Emisión":"2008-10-08",
+      "Debe":"0",
+      "Pago":"458.7",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00769507",
+      "Fecha Emisión":"2008-09-23",
+      "Debe":"458.7",
+      "Pago":"0",
+      "Número Cuota":"8",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00537705",
+      "Fecha Emisión":"2008-09-05",
+      "Debe":"0",
+      "Pago":"449.7",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00761795",
+      "Fecha Emisión":"2008-08-25",
+      "Debe":"449.7",
+      "Pago":"0",
+      "Número Cuota":"7",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00534492",
+      "Fecha Emisión":"2008-08-08",
+      "Debe":"0",
+      "Pago":"457.75",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00749269",
+      "Fecha Emisión":"2008-07-24",
+      "Debe":"458.7",
+      "Pago":"0",
+      "Número Cuota":"6",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"NCI-X-0002-00024636",
+      "Fecha Emisión":"2008-07-31",
+      "Debe":"0",
+      "Pago":"0.95",
+      "Número Cuota":"52",
+      "Acción":""
+   },
+   {
+      "Comprobante":"RECI-X-0911-00528005",
+      "Fecha Emisión":"2008-07-04",
+      "Debe":"0",
+      "Pago":"407.8",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00743973",
+      "Fecha Emisión":"2008-06-20",
+      "Debe":"407.8",
+      "Pago":"0",
+      "Número Cuota":"5",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00524642",
+      "Fecha Emisión":"2008-06-09",
+      "Debe":"0",
+      "Pago":"416.8",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00735957",
+      "Fecha Emisión":"2008-05-23",
+      "Debe":"416.8",
+      "Pago":"0",
+      "Número Cuota":"4",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00519769",
+      "Fecha Emisión":"2008-05-07",
+      "Debe":"0",
+      "Pago":"407.8",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00727352",
+      "Fecha Emisión":"2008-04-24",
+      "Debe":"407.8",
+      "Pago":"0",
+      "Número Cuota":"3",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00514961",
+      "Fecha Emisión":"2008-04-07",
+      "Debe":"0",
+      "Pago":"406.95",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00717541",
+      "Fecha Emisión":"2008-03-25",
+      "Debe":"407.8",
+      "Pago":"0",
+      "Número Cuota":"2",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00509991",
+      "Fecha Emisión":"2008-03-05",
+      "Debe":"0",
+      "Pago":"408.65",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00709294",
+      "Fecha Emisión":"2008-02-20",
+      "Debe":"407.8",
+      "Pago":"0",
+      "Número Cuota":"1",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00506914",
+      "Fecha Emisión":"2008-02-06",
+      "Debe":"0",
+      "Pago":"623.55",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0019-00033580",
+      "Fecha Emisión":"2008-01-31",
+      "Debe":"416.8",
+      "Pago":"0",
+      "Número Cuota":"13",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0002-00698750",
+      "Fecha Emisión":"2008-01-02",
+      "Debe":"206.75",
+      "Pago":"0",
+      "Número Cuota":"21",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00504410",
+      "Fecha Emisión":"2008-01-07",
+      "Debe":"0",
+      "Pago":"617.3",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00698108",
+      "Fecha Emisión":"2007-12-21",
+      "Debe":"407.8",
+      "Pago":"0",
+      "Número Cuota":"11",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0002-00698461",
+      "Fecha Emisión":"2008-01-02",
+      "Debe":"210.05",
+      "Pago":"0",
+      "Número Cuota":"20",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00503392",
+      "Fecha Emisión":"2007-12-18",
+      "Debe":"0",
+      "Pago":"0.55",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"RECI-X-0911-00500860",
+      "Fecha Emisión":"2007-12-06",
+      "Debe":"0",
+      "Pago":"337.4",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00687696",
+      "Fecha Emisión":"2007-11-22",
+      "Debe":"337.4",
+      "Pago":"0",
+      "Número Cuota":"10",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00496043",
+      "Fecha Emisión":"2007-11-07",
+      "Debe":"0",
+      "Pago":"346.4",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00680598",
+      "Fecha Emisión":"2007-10-23",
+      "Debe":"346.4",
+      "Pago":"0",
+      "Número Cuota":"9",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00492099",
+      "Fecha Emisión":"2007-10-08",
+      "Debe":"0",
+      "Pago":"337.4",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00672037",
+      "Fecha Emisión":"2007-09-21",
+      "Debe":"337.4",
+      "Pago":"0",
+      "Número Cuota":"8",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00487637",
+      "Fecha Emisión":"2007-09-07",
+      "Debe":"0",
+      "Pago":"505.15",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00664239",
+      "Fecha Emisión":"2007-08-24",
+      "Debe":"505.15",
+      "Pago":"0",
+      "Número Cuota":"7",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00482297",
+      "Fecha Emisión":"2007-08-03",
+      "Debe":"0",
+      "Pago":"169.65",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00655759",
+      "Fecha Emisión":"2007-07-23",
+      "Debe":"169.65",
+      "Pago":"0",
+      "Número Cuota":"6",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00477478",
+      "Fecha Emisión":"2007-07-06",
+      "Debe":"0",
+      "Pago":"337.4",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00647684",
+      "Fecha Emisión":"2007-06-22",
+      "Debe":"337.4",
+      "Pago":"0",
+      "Número Cuota":"5",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00474303",
+      "Fecha Emisión":"2007-06-11",
+      "Debe":"0",
+      "Pago":"346.4",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00639443",
+      "Fecha Emisión":"2007-05-23",
+      "Debe":"346.4",
+      "Pago":"0",
+      "Número Cuota":"4",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0002-00630506",
+      "Fecha Emisión":"2007-04-24",
+      "Debe":"337.4",
+      "Pago":"0",
+      "Número Cuota":"3",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00466969",
+      "Fecha Emisión":"2007-04-30",
+      "Debe":"0",
+      "Pago":"337.4",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"RECI-X-0911-00465242",
+      "Fecha Emisión":"2007-04-13",
+      "Debe":"0",
+      "Pago":"353.33",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00620563",
+      "Fecha Emisión":"2007-03-26",
+      "Debe":"353.33",
+      "Pago":"0",
+      "Número Cuota":"2",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00458323",
+      "Fecha Emisión":"2007-03-07",
+      "Debe":"0",
+      "Pago":"346.4",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00611707",
+      "Fecha Emisión":"2007-02-22",
+      "Debe":"346.4",
+      "Pago":"0",
+      "Número Cuota":"1",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00455958",
+      "Fecha Emisión":"2007-02-12",
+      "Debe":"0",
+      "Pago":"452.25",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0019-00032168",
+      "Fecha Emisión":"2007-01-30",
+      "Debe":"301",
+      "Pago":"0",
+      "Número Cuota":"13",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0002-00601686",
+      "Fecha Emisión":"2007-01-03",
+      "Debe":"151.25",
+      "Pago":"0",
+      "Número Cuota":"21",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00453482",
+      "Fecha Emisión":"2007-01-12",
+      "Debe":"0",
+      "Pago":"151.25",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"RECI-X-0911-00452271",
+      "Fecha Emisión":"2007-01-04",
+      "Debe":"0",
+      "Pago":"292",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00597657",
+      "Fecha Emisión":"2006-12-22",
+      "Debe":"292",
+      "Pago":"0",
+      "Número Cuota":"11",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0002-00601286",
+      "Fecha Emisión":"2007-01-03",
+      "Debe":"151.25",
+      "Pago":"0",
+      "Número Cuota":"20",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00447333",
+      "Fecha Emisión":"2006-12-04",
+      "Debe":"0",
+      "Pago":"292",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00591049",
+      "Fecha Emisión":"2006-11-20",
+      "Debe":"292",
+      "Pago":"0",
+      "Número Cuota":"10",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00442309",
+      "Fecha Emisión":"2006-11-02",
+      "Debe":"0",
+      "Pago":"472.62",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00583275",
+      "Fecha Emisión":"2006-10-23",
+      "Debe":"296.5",
+      "Pago":"0",
+      "Número Cuota":"9",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00071977",
+      "Fecha Emisión":"2006-10-09",
+      "Debe":"0",
+      "Pago":"441.75",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00575621",
+      "Fecha Emisión":"2006-09-25",
+      "Debe":"472.62",
+      "Pago":"0",
+      "Número Cuota":"8",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"NDEB-C-0002-00009284",
+      "Fecha Emisión":"2006-09-27",
+      "Debe":"145.25",
+      "Pago":"0",
+      "Número Cuota":"7",
+      "Acción":""
+   },
+   {
+      "Comprobante":"RECE-X-0913-00070669",
+      "Fecha Emisión":"2006-09-08",
+      "Debe":"0",
+      "Pago":"10.5",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00567653",
+      "Fecha Emisión":"2006-08-25",
+      "Debe":"10.5",
+      "Pago":"0",
+      "Número Cuota":"7",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00068835",
+      "Fecha Emisión":"2006-08-09",
+      "Debe":"0",
+      "Pago":"296.5",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00559057",
+      "Fecha Emisión":"2006-07-24",
+      "Debe":"296.5",
+      "Pago":"0",
+      "Número Cuota":"6",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00066338",
+      "Fecha Emisión":"2006-07-05",
+      "Debe":"0",
+      "Pago":"269",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00550862",
+      "Fecha Emisión":"2006-06-26",
+      "Debe":"269",
+      "Pago":"0",
+      "Número Cuota":"5",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00064546",
+      "Fecha Emisión":"2006-06-06",
+      "Debe":"0",
+      "Pago":"269",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00542653",
+      "Fecha Emisión":"2006-05-24",
+      "Debe":"269",
+      "Pago":"0",
+      "Número Cuota":"4",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECE-X-0913-00062999",
+      "Fecha Emisión":"2006-05-08",
+      "Debe":"0",
+      "Pago":"264.5",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00534290",
+      "Fecha Emisión":"2006-04-25",
+      "Debe":"264.5",
+      "Pago":"0",
+      "Número Cuota":"3",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00406925",
+      "Fecha Emisión":"2006-04-07",
+      "Debe":"0",
+      "Pago":"264.5",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00524035",
+      "Fecha Emisión":"2006-03-24",
+      "Debe":"264.5",
+      "Pago":"0",
+      "Número Cuota":"2",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00399834",
+      "Fecha Emisión":"2006-03-06",
+      "Debe":"0",
+      "Pago":"264.5",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00516461",
+      "Fecha Emisión":"2006-02-24",
+      "Debe":"264.5",
+      "Pago":"0",
+      "Número Cuota":"1",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00395954",
+      "Fecha Emisión":"2006-02-03",
+      "Debe":"0",
+      "Pago":"238",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0019-00030276",
+      "Fecha Emisión":"2006-01-30",
+      "Debe":"238",
+      "Pago":"0",
+      "Número Cuota":"13",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0002-00505741",
+      "Fecha Emisión":"2005-12-26",
+      "Debe":"228.4",
+      "Pago":"0",
+      "Número Cuota":"11",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00392865",
+      "Fecha Emisión":"2005-12-29",
+      "Debe":"0",
+      "Pago":"228.4",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"RECI-X-0911-00388711",
+      "Fecha Emisión":"2005-12-06",
+      "Debe":"0",
+      "Pago":"228.4",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00496548",
+      "Fecha Emisión":"2005-11-22",
+      "Debe":"228.4",
+      "Pago":"0",
+      "Número Cuota":"10",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00382994",
+      "Fecha Emisión":"2005-11-04",
+      "Debe":"0",
+      "Pago":"228.4",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00488953",
+      "Fecha Emisión":"2005-10-24",
+      "Debe":"228.4",
+      "Pago":"0",
+      "Número Cuota":"9",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00377586",
+      "Fecha Emisión":"2005-10-05",
+      "Debe":"0",
+      "Pago":"228.4",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00481546",
+      "Fecha Emisión":"2005-09-26",
+      "Debe":"228.4",
+      "Pago":"0",
+      "Número Cuota":"8",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00372069",
+      "Fecha Emisión":"2005-09-05",
+      "Debe":"0",
+      "Pago":"214.9",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00473145",
+      "Fecha Emisión":"2005-08-25",
+      "Debe":"214.9",
+      "Pago":"0",
+      "Número Cuota":"7",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00370106",
+      "Fecha Emisión":"2005-08-18",
+      "Debe":"0",
+      "Pago":"228.38",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00465223",
+      "Fecha Emisión":"2005-07-25",
+      "Debe":"228.38",
+      "Pago":"0",
+      "Número Cuota":"6",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00360567",
+      "Fecha Emisión":"2005-07-05",
+      "Debe":"0",
+      "Pago":"214.9",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00456923",
+      "Fecha Emisión":"2005-06-24",
+      "Debe":"214.9",
+      "Pago":"0",
+      "Número Cuota":"5",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00355442",
+      "Fecha Emisión":"2005-06-06",
+      "Debe":"0",
+      "Pago":"214.9",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00449304",
+      "Fecha Emisión":"2005-05-20",
+      "Debe":"214.9",
+      "Pago":"0",
+      "Número Cuota":"4",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00349815",
+      "Fecha Emisión":"2005-05-05",
+      "Debe":"0",
+      "Pago":"214.9",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00441708",
+      "Fecha Emisión":"2005-04-27",
+      "Debe":"214.9",
+      "Pago":"0",
+      "Número Cuota":"3",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00343023",
+      "Fecha Emisión":"2005-04-05",
+      "Debe":"0",
+      "Pago":"214.9",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00432219",
+      "Fecha Emisión":"2005-03-24",
+      "Debe":"214.9",
+      "Pago":"0",
+      "Número Cuota":"2",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00337204",
+      "Fecha Emisión":"2005-03-04",
+      "Debe":"0",
+      "Pago":"417.8",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-D2-0002-00425513",
+      "Fecha Emisión":"2005-02-25",
+      "Debe":"214.9",
+      "Pago":"0",
+      "Número Cuota":"1",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0019-00027351",
+      "Fecha Emisión":"2005-01-28",
+      "Debe":"202.9",
+      "Pago":"0",
+      "Número Cuota":"13",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0002-00417863",
+      "Fecha Emisión":"2004-12-23",
+      "Debe":"193.9",
+      "Pago":"0",
+      "Número Cuota":"11",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"NCRE-C-0002-00046800",
+      "Fecha Emisión":"2004-12-20",
+      "Debe":"0",
+      "Pago":"236.46",
+      "Número Cuota":"0",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00412065",
+      "Fecha Emisión":"2004-11-23",
+      "Debe":"206.96",
+      "Pago":"0",
+      "Número Cuota":"10",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0002-00405001",
+      "Fecha Emisión":"2004-10-21",
+      "Debe":"193.9",
+      "Pago":"0",
+      "Número Cuota":"9",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0002-00397680",
+      "Fecha Emisión":"2004-09-22",
+      "Debe":"193.9",
+      "Pago":"0",
+      "Número Cuota":"8",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0002-00390275",
+      "Fecha Emisión":"2004-08-23",
+      "Debe":"199.9",
+      "Pago":"0",
+      "Número Cuota":"7",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0002-00383017",
+      "Fecha Emisión":"2004-07-23",
+      "Debe":"199.9",
+      "Pago":"0",
+      "Número Cuota":"6",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0002-00375414",
+      "Fecha Emisión":"2004-06-23",
+      "Debe":"190.4",
+      "Pago":"0",
+      "Número Cuota":"5",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0002-00367989",
+      "Fecha Emisión":"2004-05-21",
+      "Debe":"190.4",
+      "Pago":"0",
+      "Número Cuota":"4",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"NCRE-C-0002-00042056",
+      "Fecha Emisión":"2004-05-06",
+      "Debe":"0",
+      "Pago":"8.44",
+      "Número Cuota":"0",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00360088",
+      "Fecha Emisión":"2004-04-23",
+      "Debe":"190.4",
+      "Pago":"0",
+      "Número Cuota":"3",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0002-00351350",
+      "Fecha Emisión":"2004-03-26",
+      "Debe":"190.4",
+      "Pago":"0",
+      "Número Cuota":"2",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0002-00344772",
+      "Fecha Emisión":"2004-02-25",
+      "Debe":"184.4",
+      "Pago":"0",
+      "Número Cuota":"1",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00253865",
+      "Fecha Emisión":"2003-10-17",
+      "Debe":"0",
+      "Pago":"2052.36",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"NCRE-C-0002-00039360",
+      "Fecha Emisión":"2004-03-01",
+      "Debe":"0",
+      "Pago":"133.5",
+      "Número Cuota":"0",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0019-00023463",
+      "Fecha Emisión":"2004-01-26",
+      "Debe":"184.9",
+      "Pago":"0",
+      "Número Cuota":"13",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"NCRE-C-0002-00040176",
+      "Fecha Emisión":"2004-01-08",
+      "Debe":"0",
+      "Pago":"43.75",
+      "Número Cuota":"0",
+      "Acción":""
+   },
+   {
+      "Comprobante":"NDEB-C-0002-00004722",
+      "Fecha Emisión":"2004-01-08",
+      "Debe":"89.82",
+      "Pago":"0",
+      "Número Cuota":"11",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00336084",
+      "Fecha Emisión":"2003-12-26",
+      "Debe":"197.48",
+      "Pago":"0",
+      "Número Cuota":"11",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0002-00328135",
+      "Fecha Emisión":"2003-11-19",
+      "Debe":"225.65",
+      "Pago":"0",
+      "Número Cuota":"10",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00256621",
+      "Fecha Emisión":"2003-11-05",
+      "Debe":"0",
+      "Pago":"43.75",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00321401",
+      "Fecha Emisión":"2003-10-21",
+      "Debe":"225.65",
+      "Pago":"0",
+      "Número Cuota":"9",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00251725",
+      "Fecha Emisión":"2003-10-07",
+      "Debe":"0",
+      "Pago":"43.75",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00314490",
+      "Fecha Emisión":"2003-09-22",
+      "Debe":"225.65",
+      "Pago":"0",
+      "Número Cuota":"8",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00246303",
+      "Fecha Emisión":"2003-09-08",
+      "Debe":"0",
+      "Pago":"87.5",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00307513",
+      "Fecha Emisión":"2003-08-21",
+      "Debe":"269.4",
+      "Pago":"0",
+      "Número Cuota":"7",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0002-00300607",
+      "Fecha Emisión":"2003-07-24",
+      "Debe":"181.9",
+      "Pago":"0",
+      "Número Cuota":"6",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0002-00293693",
+      "Fecha Emisión":"2003-06-20",
+      "Debe":"181.9",
+      "Pago":"0",
+      "Número Cuota":"5",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"NCRE-C-0002-00036635",
+      "Fecha Emisión":"2003-06-24",
+      "Debe":"0",
+      "Pago":"398.4",
+      "Número Cuota":"0",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00286186",
+      "Fecha Emisión":"2003-05-26",
+      "Debe":"181.9",
+      "Pago":"0",
+      "Número Cuota":"4",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0002-00278818",
+      "Fecha Emisión":"2003-04-25",
+      "Debe":"172.9",
+      "Pago":"0",
+      "Número Cuota":"3",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0002-00270842",
+      "Fecha Emisión":"2003-03-27",
+      "Debe":"172.9",
+      "Pago":"0",
+      "Número Cuota":"2",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0002-00264546",
+      "Fecha Emisión":"2003-02-26",
+      "Debe":"166.9",
+      "Pago":"0",
+      "Número Cuota":"1",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0019-00017920",
+      "Fecha Emisión":"2003-02-11",
+      "Debe":"175.9",
+      "Pago":"0",
+      "Número Cuota":"13",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00202963",
+      "Fecha Emisión":"2003-01-09",
+      "Debe":"0",
+      "Pago":"175.9",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"RECI-X-0911-00196269",
+      "Fecha Emisión":"2002-11-18",
+      "Debe":"0",
+      "Pago":"1730.4",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00259163",
+      "Fecha Emisión":"2002-12-30",
+      "Debe":"166.9",
+      "Pago":"0",
+      "Número Cuota":"23",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00198912",
+      "Fecha Emisión":"2002-12-04",
+      "Debe":"0",
+      "Pago":"172.9",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00254792",
+      "Fecha Emisión":"2002-11-26",
+      "Debe":"172.9",
+      "Pago":"0",
+      "Número Cuota":"10",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00193863",
+      "Fecha Emisión":"2002-11-05",
+      "Debe":"0",
+      "Pago":"172.9",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00248597",
+      "Fecha Emisión":"2002-10-23",
+      "Debe":"172.9",
+      "Pago":"0",
+      "Número Cuota":"9",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"FACT-C-0002-00242358",
+      "Fecha Emisión":"2002-09-25",
+      "Debe":"172.9",
+      "Pago":"0",
+      "Número Cuota":"8",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00187028",
+      "Fecha Emisión":"2002-10-01",
+      "Debe":"0",
+      "Pago":"172.9",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"RECI-X-0911-00182439",
+      "Fecha Emisión":"2002-09-03",
+      "Debe":"0",
+      "Pago":"172.9",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00235874",
+      "Fecha Emisión":"2002-08-23",
+      "Debe":"172.9",
+      "Pago":"0",
+      "Número Cuota":"7",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00177045",
+      "Fecha Emisión":"2002-08-02",
+      "Debe":"0",
+      "Pago":"172.9",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00229398",
+      "Fecha Emisión":"2002-07-24",
+      "Debe":"172.9",
+      "Pago":"0",
+      "Número Cuota":"6",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00172154",
+      "Fecha Emisión":"2002-07-05",
+      "Debe":"0",
+      "Pago":"14.05",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"RECI-X-0911-00171041",
+      "Fecha Emisión":"2002-07-03",
+      "Debe":"0",
+      "Pago":"155.4",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00222494",
+      "Fecha Emisión":"2002-06-21",
+      "Debe":"155.4",
+      "Pago":"0",
+      "Número Cuota":"5",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"NCRE-C-0002-00030117",
+      "Fecha Emisión":"2002-06-24",
+      "Debe":"0",
+      "Pago":"155.4",
+      "Número Cuota":"0",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00215678",
+      "Fecha Emisión":"2002-05-24",
+      "Debe":"169.45",
+      "Pago":"0",
+      "Número Cuota":"4",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00161482",
+      "Fecha Emisión":"2002-05-09",
+      "Debe":"0",
+      "Pago":"156.9",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00208929",
+      "Fecha Emisión":"2002-04-24",
+      "Debe":"162.9",
+      "Pago":"0",
+      "Número Cuota":"3",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00155478",
+      "Fecha Emisión":"2002-04-10",
+      "Debe":"0",
+      "Pago":"155.4",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00202138",
+      "Fecha Emisión":"2002-03-28",
+      "Debe":"155.4",
+      "Pago":"0",
+      "Número Cuota":"2",
+      "Acción":"Ver factura"
+   },
+   {
+      "Comprobante":"RECI-X-0911-00148479",
+      "Fecha Emisión":"2002-03-09",
+      "Debe":"0",
+      "Pago":"155.4",
+      "Número Cuota":"-",
+      "Acción":""
+   },
+   {
+      "Comprobante":"FACT-C-0002-00197961",
+      "Fecha Emisión":"2002-03-15",
+      "Debe":"149.4",
+      "Pago":"0",
+      "Número Cuota":"1",
+      "Acción":""
+   }
+]
